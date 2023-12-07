@@ -3,6 +3,7 @@
 ## Introduction
 
 This project was scaffolded using [nx](https://nx.dev/) and is based on React, TypeScript and MUI.
+
 The UI reports `player-1-wins`, `player-2-wins`, `draw` 'Outcome' as appropriate, based on the input given (and the rules of "[Rock, Paper, Scissors][rps]").
 
 Unit tests using Jest and React Testing Library, integration tests via Cypress.
